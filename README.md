@@ -13,4 +13,3 @@ For running this application, user must have a Spotify account. Then follow the 
 6. Now the app is ready to run.
 
 This app runs through web scrapping **https://www.billboard.com/charts/hot-100** , **https://bestoftheyear.in/music/hindi/** , **https://www.ranker.com/list/best-anime-intros-and-opening-themes/lisa-waugh**
-Please note, **this app is only for personal use. Any commercial use could lead to legal actions.**
